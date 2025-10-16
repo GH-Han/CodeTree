@@ -1,0 +1,1 @@
+input("Your score is", N)
