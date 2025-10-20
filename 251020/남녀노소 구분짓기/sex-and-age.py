@@ -10,4 +10,4 @@ else:
     if N>=19:
         print("WOMAN")
     else:
-        print("GRIL")
+        print("GIRL")
